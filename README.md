@@ -234,14 +234,10 @@ Caso dê um dislike em um post que tenha dado like, o dislike sobrescreve o like
 - caso dê like em um post que já tenha dado like, o like é removido (deleta o item da tabela)
 - caso dê dislike em um post que já tenha dado dislike, o dislike é removido (deleta o item da tabela)
 
-## Contato
+## Contato - Manassés Almeida
 
-Manassés Almeida 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmanasses/)](https://www.linkedin.com/in/devmanasses/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:manasses2@gmail.com)](mailto:manasses2@gmail.com)
 
 Project Link: [https://github.com/manassesdev2](https://github.com/manassesdev2/labook-backend)
 <br/>
-
-[![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejaques/)](https://www.linkedin.com/in/devmanasses/)
-
