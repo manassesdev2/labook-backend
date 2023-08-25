@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # Projeto Labook
 
 O Labook é uma rede social com o objetivo de promover a conexão e interação entre pessoas. Quem se cadastrar no aplicativo poderá criar e curtir publicações.<br>
@@ -244,4 +242,4 @@ Project Link: [https://github.com/manassesdev2](https://github.com/manassesdev2)
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejaques/)](https://www.linkedin.com/in/devmanasses/)
->>>>>>> master
+
