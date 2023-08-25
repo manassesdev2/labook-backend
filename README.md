@@ -239,5 +239,5 @@ Caso dê um dislike em um post que tenha dado like, o dislike sobrescreve o like
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmanasses/)](https://www.linkedin.com/in/devmanasses/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:manasses2@gmail.com)](mailto:manasses2@gmail.com)
 
-Project Link: [https://github.com/manassesdev2](https://github.com/manassesdev2/labook-backend)
-<br/>
+Project Link: [https://github.com/manassesdev2/labook-backend](https://github.com/manassesdev2/labook-backend)
+
